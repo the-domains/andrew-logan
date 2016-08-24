@@ -1,0 +1,28 @@
+name: Andrew Logan
+favicon: null
+layout_spectrum: 0.7755268793553114
+typography_spectrum: 0.4995942150708288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7852270836010575
+  lightness: 0.6051010915543884
+  saturation: 0.9396871798671782
+  rhythmicContrast: 0.6330525614321232
+purpose: []
